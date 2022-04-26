@@ -38,6 +38,8 @@ Poketale open source projects
     <p>
     Chad-adblocker - Adblock System that used at chad lol <a href="https://github.com/chad-engine/chad-adblocker">Github</a>
   </p>
+  and more....
+  
   
   # LISANCE N STUFF
   see lisance.md
