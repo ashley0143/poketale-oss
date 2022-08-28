@@ -1,6 +1,6 @@
  <div align="center">
     <a href="https://git.poketalebot.com"><img src="https://dka575ofm4ao0.cloudfront.net/pages-hero_covers/normal/159212/sketch-1626677228538.png" width="546" alt="Poketale" /></a><br>
-Poketale open source projects
+Poketale projects
  </div>
  
 # LIST
